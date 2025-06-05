@@ -1228,7 +1228,7 @@ function cekHasil() {
   if (hasil) {
     document.querySelector('.result-box').innerHTML = `
       <h3>SELAMAT ANDA DINYATAKAN LULUS SELEKSI PANITIA MOKA-KU 2025</h3>
-      <img src="qrr.png" alt="QR Code" class="qr" />
+      <img src="qr.png" alt="QR Code" class="qr" />
       <h2 id="namaPanitia">${hasil.nama.toUpperCase()}</h2>
       <p id="keteranganPanitia">  ${hasil.divisi.toUpperCase()} MOKAKU UPI PURWAKARTA 2025</p>
       <p><strong>Nomor Induk Mahasiswa</strong><br /><span id="nimHasil">${nim}</span></p>
