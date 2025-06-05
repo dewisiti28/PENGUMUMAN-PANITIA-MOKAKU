@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hasil Seleksi MOKAKU 2025</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="background"></div>
+
+  <div class="form-container" id="formContainer">
+    <div class="form-box">
+      <img src="logo.jpg" alt="Logo" class="logo" />
+      <h2>HASIL SELEKSI PANITIA MOKAKU 2025</h2>
+      <p class="subtitle">Masukkan Nomor Induk Mahasiswa</p>
+
+      <label for="nim" class="label-nim">Nomor Induk Mahasiswa</label>
+      <input type="text" id="nim" placeholder="Masukkan NIM" />
+      <button onclick="cekHasil()">LIHAT HASIL SELEKSI</button>
+    </div>
+  </div>
+
+  <div class="result-container" id="resultContainer" style="display: none">
+    <div class="result-box" id="resultBox">
+      <!-- JavaScript -->
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
