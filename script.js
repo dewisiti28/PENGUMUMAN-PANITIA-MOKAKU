@@ -1076,7 +1076,7 @@ const dataMahasiswa = {
   nama: "Reifana Muhamad Al Kindi",
   wa: "085883732323",
   divisi: "Staff Divisi Mentor",
-  prodi: "Manajemen dan Bisnis Komputer",
+  prodi: "Mekatronika dan Kecerdasan Buatan",
   angkatan: "2024"
 },
 "2307222": {
@@ -1090,7 +1090,7 @@ const dataMahasiswa = {
   nama: "Bayu Aji Wahyu Utomo",
   wa: "085883732323",
   divisi: "Staff Divisi Mentor",
-  prodi: "Manajemen dan Bisnis Komputer",
+  prodi: "Mekatronika dan Kecerdasan Buatan",
   angkatan: "2024"
 },
 "2408837": {
@@ -1160,7 +1160,7 @@ const dataMahasiswa = {
   nama: "Zaldi Arifa",
   wa: "085883732323",
   divisi: "Staff Divisi Mentor",
-  prodi: "Manajemen dan Bisnis Komputer",
+  prodi: "Mekatronika dan Kecerdasan Buatan",
   angkatan: "2024"
 },
 "2304167": {
@@ -1174,14 +1174,14 @@ const dataMahasiswa = {
   nama: "Muhammad Haikal Alfaridzi",
   wa: "085883732323",
   divisi: "Staff Divisi Mentor",
-  prodi: "Manajemen dan Bisnis Komputer",
+  prodi: "Mekatronika dan Kecerdasan Buatan",
   angkatan: "2024"
 },
 "2404183": {
   nama: "Naail Safwan Saleh",
   wa: "085883732323",
   divisi: "Staff Divisi Mentor",
-  prodi: "Manajemen dan Bisnis Komputer",
+  prodi: "Mekatronika dan Kecerdasan Buatan",
   angkatan: "2024"
 },
   "2200101": {
@@ -1195,7 +1195,7 @@ const dataMahasiswa = {
   nama: "Muhammad Randy Kurniawan",
   wa: "085883732323",
   divisi: "Staff Divisi Mentor",
-  prodi: "Manajemen dan Bisnis Komputer",
+  prodi: "Mekatronika dan Kecerdasan Buatan",
   angkatan: "2024"
 },
 "2406256": {
@@ -1209,14 +1209,14 @@ const dataMahasiswa = {
   nama: "Hanif Aidil Rachman",
   wa: "085883732323",
   divisi: "Staff Divisi Mentor",
-  prodi: "Manajemen dan Bisnis Komputer",
+  prodi: "Mekatronika dan Kecerdasan Buatanr",
   angkatan: "2024"
 },
 "2402023": {
   nama: "Muhammad Khairul Irham Masruri",
   wa: "085883732323",
   divisi: "Staff Divisi Mentor",
-  prodi: "Manajemen dan Bisnis Komputer",
+  prodi: "Mekatronika dan Kecerdasan Buatan",
   angkatan: "2024"
 }
 };
