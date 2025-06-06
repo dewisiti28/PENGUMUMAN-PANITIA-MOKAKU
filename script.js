@@ -1232,7 +1232,7 @@ function cekHasil() {
 
   if (hasil) {
     document.querySelector('.result-box').innerHTML = `
-      <h3>SELAMAT ANDA DINYATAKAN LULUS SELEKSI PANITIA MOKA-KU 2025</h3>
+      <h3>SELAMAT ANDA DINYATAKAN LOLOS SELEKSI PANITIA MOKA-KU 2025</h3>
       <img src="qur.png" alt="QR Code" class="qr" />
       <h2 id="namaPanitia">${hasil.nama.toUpperCase()}</h2>
       <p id="keteranganPanitia">  ${hasil.divisi.toUpperCase()} MOKAKU UPI PURWAKARTA 2025</p>
@@ -1245,7 +1245,7 @@ function cekHasil() {
     document.querySelector('.result-box').innerHTML = `
       <div class="not-passed-box" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; text-align: center;">
         <div class="not-passed-header">
-          MOHON MAAF ANDA DINYATAKAN TIDAK LULUS SELEKSI PANITIA MOKA-KU 2025
+          MOHON MAAF ANDA DINYATAKAN TIDAK LOLOS SELEKSI PANITIA MOKA-KU 2025
         </div>
         <div class="not-passed-message">
           Terimakasih atas partisipasi Anda dalam Open Recruitment Panitia MOKA-KU 2025. Jangan berputus asa, masih ada kesempatan mendaftar dan mengikuti kepanitiaan MOKA-KU ditahun depan.
