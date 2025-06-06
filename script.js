@@ -1239,7 +1239,7 @@ function cekHasil() {
       <p><strong>Nomor Induk Mahasiswa</strong><br /><span id="nimHasil">${nim}</span></p>
       <p><strong>Asal Program Studi</strong><br /><span id="prodiHasil">${hasil.prodi}</span></p>
       <p><strong>Angkatan</strong><br /><span id="angkatanHasil">${hasil.angkatan}</span></p>
-      <a href="https://wa.me/${hasil.wa.replace(/^0/, '62')}" class="btn-wa" target="_blank">HUBUNGI CONTACT PERSON</a>
+      <a href="https://wa.me/${hasil.wa.replace(/^0/, '62')}" class="btn-wa" target="_blank">CONTACT PERSON</a>
     `;
   } else {
     document.querySelector('.result-box').innerHTML = `
