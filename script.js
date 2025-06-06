@@ -1184,6 +1184,13 @@ const dataMahasiswa = {
   prodi: "Manajemen dan Bisnis Komputer",
   angkatan: "2024"
 },
+  "2200101": {
+  nama: " Nadia Amtul Noor",
+  wa: "085883732323",
+  divisi: "Staff Divisi Mentor",
+  prodi: "Pendidikan Guru Pendidikan Anak Usia Dini",
+  angkatan: "2022"
+},
 "2405315": {
   nama: "Muhammad Randy Kurniawan",
   wa: "085883732323",
