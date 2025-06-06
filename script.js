@@ -251,12 +251,12 @@ const dataMahasiswa = {
   prodi: "Sistem Telekomunikasi",
   angkatan: "2023"
 },
-"2308968": {
-  nama: "Silvy Zuhruffiatun Nissa",
+  "2409959": {
+  nama: "Seni Agustira",
   wa: "085883732323",
   divisi: "Staff Divisi Keamanan",
   prodi: "Sistem Telekomunikasi",
-  angkatan: "2023"
+  angkatan: "2024"
 },
 "2401047": {
   nama: "Assya Nurhasanah",
@@ -517,10 +517,17 @@ const dataMahasiswa = {
   prodi: "Pendidikan Sistem dan Teknologin Informasi",
   angkatan: "2024"
 },
+  "2308968": {
+  nama: "Silvy Zuhruffiatun Nissa",
+  wa: "085883732323",
+  divisi: "Koordinator Divisi Acara",
+  prodi: "Sistem Telekomunikasi",
+  angkatan: "2023"
+},
 "2301018": {
   nama: "Rifal Fadli Ananda",
   wa: "085883732323",
-  divisi: "Koordinator Divisi Acara",
+  divisi: "Staff Divisi Acara",
   prodi: "Sistem Telekomunikasi",
   angkatan: "2023"
 },
@@ -568,13 +575,6 @@ const dataMahasiswa = {
 },
 "2401727": {
   nama: "Rayya Alfaiza Anasha",
-  wa: "085883732323",
-  divisi: "Staff Divisi Acara",
-  prodi: "Sistem Telekomunikasi",
-  angkatan: "2024"
-},
-"2409959": {
-  nama: "Seni Agustira",
   wa: "085883732323",
   divisi: "Staff Divisi Acara",
   prodi: "Sistem Telekomunikasi",
