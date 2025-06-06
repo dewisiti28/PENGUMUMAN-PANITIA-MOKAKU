@@ -510,8 +510,13 @@ const dataMahasiswa = {
   prodi: "Pendidikan Guru Pendidikan Anak Usia Dini",
   angkatan: "2024"
 },
-// Data untuk Muhammad Raffi Akhdan tidak memiliki NIM, sehingga tidak dibuat.
-
+"2405645" : {
+  nama:"Muhammad Raffi Akhdan",
+  wa: "085883732323",
+  divisi: "Staff Divisi Sponsorship",
+  prodi: "Pendidikan Sistem dan Teknologin Informasi",
+  angkatan: "2024"
+},
 "2301018": {
   nama: "Rifal Fadli Ananda",
   wa: "085883732323",
