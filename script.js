@@ -1,4 +1,11 @@
 const dataMahasiswa = {
+  "2401768": {
+  nama: "Marsya Aulia Firdaus",
+  wa: "085883732323",
+  divisi: "Staff Divisi Dekorasi",
+  prodi: "Pendidikan Guru Pendidikan Anak Usia Dini",
+  angkatan: "2024"
+},
   "2405122": {
     nama: "Rizqi Abdan",
     wa: "085883732323",
